@@ -11,7 +11,7 @@
     background-color: white;
 }
 
-.p{
+.paragraph{
     background-color: rgb(255, 255, 127);
     padding: .5em;
     font-family: "Helvetica Neue",Helvetica,Arial;
@@ -21,7 +21,6 @@
 
 h2{
     text-align: center;
-    font-weight: bolder;
     color: #b608fb;
     text-transform: capitalize;
     font-size: 2em;
@@ -29,7 +28,6 @@ h2{
 
 h1{
     color:rgb(255, 145, 0);
-    font-size: 3em;
+    font-size: 3.5em;
     background-color: rgb(195, 248, 248);
-
 }
