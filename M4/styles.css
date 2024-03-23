@@ -7,6 +7,7 @@
 
 .paragraph{
     background-color: rgb(255, 255, 127);
+    border: 5px rgb(205, 205, 1) solid;
     padding: 1em 1.45em;
     font-family: "Helvetica Neue",Helvetica,Arial;
     line-height: 1.5em;
@@ -19,15 +20,18 @@
 .blue{
     color:rgb(10, 158, 216);
     background-color: #f6e1e9;
+    border: 2px rgb(1, 25, 205) solid;
 }
 .red{
     color:rgba(255, 64, 0, 0.8);
+    border: 2px rgb(255, 17, 0) solid;
     background-color: #f6e1e9;
 } 
 
 .green{
     color:rgb(51, 198, 15);
     background-color: #f6e1e9;
+    border: 2px rgb(42, 180, 0) solid;
     
 }
 
